@@ -16,7 +16,7 @@
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "npx chromatic --project-token 7ru1ujgqdye"
+    "chromatic": "npx chromatic --project-token=85en9g704vu"
   },
   "author": "Flora Li",
   "license": "ISC"
